@@ -1,0 +1,31 @@
+{
+  "originalUrl": "https://www.youtube.com/embed/Zv_voETkG08?autoplay=0&mute=0&controls=1&origin=https%3A%2F%2Fflare.network&playsinline=1&showinfo=0&rel=0&iv_load_policy=3&modestbranding=1&enablejsapi=1&widgetid=3&forigin=https%3A%2F%2Fflare.network%2Fflaredrops&aoriginsup=1&gporigin=https%3A%2F%2Fwww.bing.com%2F&vf=1",
+  "indexFilename": "index.html",
+  "resources": {
+    "fonts/11.woff2": "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fCxc4EsA.woff2",
+    "fonts/10.woff2": "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBxc4EsA.woff2",
+    "fonts/0.woff2": "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu72xKOzY.woff2",
+    "fonts/13.woff2": "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
+    "fonts/12.woff2": "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2",
+    "fonts/3.woff2": "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4WxKOzY.woff2",
+    "fonts/9.woff2": "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fCBc4EsA.woff2",
+    "fonts/5.woff2": "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu7GxKOzY.woff2",
+    "fonts/1.woff2": "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu5mxKOzY.woff2",
+    "fonts/6.woff2": "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2",
+    "fonts/7.woff2": "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fCRc4EsA.woff2",
+    "fonts/4.woff2": "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu7WxKOzY.woff2",
+    "fonts/2.woff2": "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu7mxKOzY.woff2",
+    "fonts/8.woff2": "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2",
+    "scripts/22.js": "https://www.gstatic.com/eureka/clank/137/cast_sender.js",
+    "scripts/17.js": "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
+    "scripts/18.js": "https://www.youtube.com/s/player/e12fbea4/player_ias.vflset/en_US/embed.js",
+    "scripts/20.js": "https://www.youtube.com/s/player/e12fbea4/player_ias.vflset/en_US/remote.js",
+    "scripts/19.js": "https://www.google.com/js/th/cspyGUBVQMG--_kbjnM2ia23YSfjFI6e3LZQtp5_J9w.js",
+    "scripts/21.js": "https://static.doubleclick.net/instream/ad_status.js",
+    "scripts/23.js": "https://www.youtube.com/s/player/e12fbea4/www-embed-player.vflset/www-embed-player.js",
+    "scripts/24.js": "https://www.youtube.com/s/player/e12fbea4/player_ias.vflset/en_US/base.js",
+    "images/15.jpg": "https://yt3.ggpht.com/pZEb4qFY8tVsTAGoi0bmItRkg-9os5w7DfVhI8bvcjBQVR0WmjcXH6O3z2EGkyNJcitssXEm=s68-c-k-c0x00ffffff-no-rj",
+    "images/16.webp": "https://i.ytimg.com/vi_webp/Zv_voETkG08/maxresdefault.webp",
+    "images/14.png": "https://www.youtube.com/img/meh7.png"
+  }
+}
